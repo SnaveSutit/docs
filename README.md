@@ -240,7 +240,6 @@ macro example {
 Before you call a macro you first have to import it into the file you want to use it in.
 This can be done using the import statement:
 `import ./filename.mcm`
-The file extension (`.mcm`) is optional. So `import ./filename` is also valid syntax
 
 #### Calling a macro
 Calling a macro is a little bit different than calling a function.
