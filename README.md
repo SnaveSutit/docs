@@ -163,7 +163,7 @@ it would compile to
 ```
 execute run function ...
 ```
-which is not an acceptable practice according to most command devs, however Minecraft will just omit the `execute run` command because it's smart. So it's not something we recommend doing, but it won't effect anything internally except for possibly file size and perhaps your reputation among the MCC community.
+which is not an acceptable practice according to most command devs, however Minecraft will just omit the `execute run` command and just run the function call because it's smart. So it's not something we recommend doing, but it won't effect anything internally except for possibly file size and perhaps your reputation among the MCC community.
 
 ---
 #### dir blocks
